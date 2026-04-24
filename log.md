@@ -40,3 +40,17 @@
   - 状态值改为中文（stable→稳定, draft→草稿, needs-review→待审核）
   - 所有页面正文内容中文化
 - **备注**：保持 Obsidian 双链兼容性
+
+## [2026-04-24] 摄取 | Obsidian 本地 AI 知识库实战指南
+
+- **来源**：`sources/obsidian-local-ai-knowledge-base-guide.md`
+- **操作**：摄取微信文章，整合进现有 wiki
+- **新增页面**：
+  - `wiki/概念/使用须知.md`
+  - `wiki/实体/WorkBuddy.md`
+  - `wiki/实体/陈宇明.md`
+- **更新页面**：
+  - `wiki/实体/Obsidian.md` — 补充"与 AI 的天生契合"、实战搭建步骤
+  - `wiki/概念/三种操作.md` — 补充三种操作的实战提示词模板
+  - `index.md` — 新增 3 个页面条目，更新统计
+- **备注**：第二次摄取，新增 3 页面 + 更新 2 页面，来源从 1 增至 2
